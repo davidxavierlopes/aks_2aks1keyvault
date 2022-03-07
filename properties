@@ -1,0 +1,5 @@
+CLUSTER1NAME=akskeyvault01
+RG=akskeyvault01-rg
+LOCATION=westeurope
+KEYVAULT=keyvault01aks
+CLUSTER2NAME=akskeyvault002
